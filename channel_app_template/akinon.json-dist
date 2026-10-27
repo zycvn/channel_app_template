@@ -20,7 +20,7 @@
       "max": "auto"
     }
   },
-  "runtime": "python:3.8-alpine",
+  "runtime": "python:3.11-alpine",
   "addons": [
     {
       "plan": "redis",

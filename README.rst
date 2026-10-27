@@ -32,7 +32,7 @@ ettiyseniz kodun ve etiketlerin gönderildiği noktaya geçebilirsiniz.
 Teknolojiler ve Kütüphaneler
 --------------------------------
 
-1. Python 3.8
+1. Python 3.10
 2. Celery 5
 3. omnisdk
 4. channel_app

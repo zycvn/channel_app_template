@@ -2,14 +2,14 @@
 Python Kurulumu
 ===============
 
-*   python sürümü 3.8 ve üzerinde ise Channel App Template projesi için yeterlidir.
+*   python sürümü 3.10 ve üzerinde ise Channel App Template projesi için yeterlidir.
 
 .. code-block:: bash
 
     python --version
     python3 --version
 
-    $: Python 3.8.10
+    $: Python 3.10.12
 
 * Eğer Python yüklü değilse ya da sürümünüz eskiyse Python kurulumunu apt komutlarıyla tamamlayabilirsiniz.
   Öncelikle `apt install` komutunu denemeniz tavsiye edilir.

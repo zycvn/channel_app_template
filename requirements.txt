@@ -1,9 +1,9 @@
 
-requests==2.32.4
+requests>=2.33.0
 celery==5.3.6
-sentry_sdk==1.14.0
+sentry_sdk>=2.8.0
 flower==2.0.0
 omnisdk==0.0.99
-channel_app==0.0.155
+channel_app==0.0.161
 redis==5.0.1
 urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
